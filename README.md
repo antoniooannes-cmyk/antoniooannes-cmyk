@@ -1,16 +1,24 @@
-## Hi there 👋
+# Apresentação pessoal
 
-<!--
-**antoniooannes-cmyk/antoniooannes-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho aprendido diversas linguagens de programação, dentre elas:
+o *HTML*, o *CSS*, o *PYTHON*, o *SQL* e o *JAVASCRIPT*.
+Além de programas como **POWER BI**, **PG ADMIN 4**, **FLUTTERFLOW**, **NODE JS** e **GITHUB**.
 
-Here are some ideas to get you started:
+## Linguagens:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JAVASCRIPT
+- SQL
+- PYTHON
+
+## Minhas metas:
+
+- Desenvolver um site de uma loja virtual
+- Desenvolver banco de dados no SQL
+- Desenvolver programas no Python
+
+| Rede Social | Usuário |
+| Github | antoniooannes-cmyk |
+| Linkedin | Oannes Tavares |
+
